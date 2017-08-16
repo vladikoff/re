@@ -211,7 +211,7 @@
       this.textCtx.clearRect(0, 0, this.textCanvas.width, this.textCanvas.height);
       this.textCtx.font = '40pt vcr';
       this.textCtx.fillStyle = 'white';
-      this.textCtx.fillText('NINJADEV PRESENTS: A DEMO CALLED «WHAT ARE YOU SYNCING ABOUT?»', 0, this.textCanvas.height / 2);
+      this.textCtx.fillText('wow live coding!!', 0, this.textCanvas.height / 2);
       this.nameOfDemoTexture.needsUpdate = true;
       this.nameOfDemoMaterial.needsUpdate = true;
 
